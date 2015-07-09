@@ -1,0 +1,15 @@
+{
+    "name": "amankata",
+    "description": "amankata node.js edition",
+    "private": "true",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "3.x",
+        "ejs": "~0.7.1",
+        "socket.io": "0.9.16"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "main": "server.js"
+}
